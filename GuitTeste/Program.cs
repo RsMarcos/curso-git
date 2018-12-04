@@ -10,8 +10,9 @@ namespace GuitTeste
     {
         static void Main(string[] args)
         {
-            string s = "Olá Mundo";
-            Console.ReadLine(s);
+            Console.WriteLine("olá Mundo");
+            Console.WriteLine("Bom dia!");
+            Console.ReadLine();
         }
     }
 }
